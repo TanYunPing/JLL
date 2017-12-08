@@ -27,5 +27,6 @@
          </ul>
      </li>
    </ul>
+     <input type="text" value="请输入数字" name="总和">
 </body>
 </html>
